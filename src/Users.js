@@ -34,7 +34,7 @@ function Users({ users, setUsers }) {
         <thead>
           <tr>
             <th></th>
-            <th>ID</th>
+            <th>Id</th>
             <th>Name</th>
             <th>Role</th>
           </tr>
